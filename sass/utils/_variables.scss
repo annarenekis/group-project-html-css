@@ -1,0 +1,47 @@
+:root {
+  --main-text-color: #000000;
+  --complementary-text-color: #907e82;
+  --white-text-color: #ffffff;
+  --secondary-title-color: #ffa5ba;
+  --accent-color: #d41443;
+
+  --white-bg-color: #ffffff;
+  --secondary-bg-color: #fff5f6;
+  --pink-bg-color: #ffb8ca;
+  --grey-bg-color: #e1e1e1;
+
+  --icons-bg-color: #ffa5ba;
+  --light-btn-hover-bg-color: #ecebeb;
+  --dark-btn-hover-bg-color: #d41342;
+
+  --additional-bg-color-ice: #ffb8ca;
+  --additional-bg-color-coffee: #f0d1a5;
+  --additional-bg-color-shake: #c2e297;
+}
+
+/// Colors ///
+$white-bg-color: #ffffff;
+$secondary-bg-color: #fff5f6; //about, contacts, footer sections//
+$pink-bg-color: #ffb8ca; // header, hero//
+$grey-bg-color: #e1e1e1; // customer reviews section//
+$primary-text-color: #000000;
+$white-text-color: #ffffff;
+$complementary-text-color: #907e82; // contact section//
+$secondary-title-color: #ffa5ba; // labels (100% natural, tradition and love, homemade ice cream made etc..)//
+$icons-bg-color: #ffa5ba; // icons
+$light-btn-hover-bg-color: #ecebeb; //btn-hover: header btn, "how it's mande"btn in hero, contacts section "Franchise" btn + section about "Read more"btn//
+$dark-btn-hover-bg-color: #d41342; //btn-hover: "Products"btn in hero, contacts section "Our location" btn//
+$accent-color: #d41443; //nav hover, logo, button text, titles, icons hover, etc..//
+
+$additional-bg-color-ice: #ffb8ca; // products + branches in contacts (cafe/foodtruck) bg color//
+$additional-bg-color-coffee: #f0d1a5; // products + branches in contacts (cafe/foodtruck) bg color//
+$additional-bg-color-shake: #c2e297; // products + branches in contacts (cafe/foodtruck) bg color//
+
+// Transition
+$default-transition-time: 250ms;
+$default-transition-function: cubic-bezier(0.4, 0, 0.2, 1);
+
+//Break points
+$mobile: 320px;
+$tablet: 768px;
+$desktop: 1200px;

@@ -1,0 +1,17 @@
+:root {
+  --main-text-color: #000000;
+  --complementary-text-color: #907e82;
+  --white-text-color: #ffffff;
+  --secondary-title-color: #ffa5ba;
+  --accent-color: #d41443;
+  --white-bg-color: #ffffff;
+  --secondary-bg-color: #fff5f6;
+  --pink-bg-color: #ffb8ca;
+  --grey-bg-color: #e1e1e1;
+  --icons-bg-color: #ffa5ba;
+  --light-btn-hover-bg-color: #ecebeb;
+  --dark-btn-hover-bg-color: #d41342;
+  --additional-bg-color-ice: #ffb8ca;
+  --additional-bg-color-coffee: #f0d1a5;
+  --additional-bg-color-shake: #c2e297;
+}/*# sourceMappingURL=main.css.map */
